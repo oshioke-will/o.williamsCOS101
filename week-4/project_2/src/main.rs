@@ -13,7 +13,7 @@ fn main() {
     println!("Enter the age of the employee:");
     let mut age_input = String::new();
     io::stdin().read_line(&mut age_input).expect("Failed to read input");
-    let age: u32 = age_input.trim().parse().expect("Please enter a valid number");
+    let age: u8 = age_input.trim().parse().expect("Please enter a valid number");
 
     // this checks the conditions and give the incentive
     if experience == "yes" {
