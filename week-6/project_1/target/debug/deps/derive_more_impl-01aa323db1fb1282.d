@@ -1,0 +1,9 @@
+C:\Users\Oshioke\OneDrive\Documents\o.williamsCOS101\week-6\project_1\target\debug\deps\derive_more_impl-01aa323db1fb1282.d: C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\Oshioke\OneDrive\Documents\o.williamsCOS101\week-6\project_1\target\debug\deps\derive_more_impl-01aa323db1fb1282.dll: C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md:

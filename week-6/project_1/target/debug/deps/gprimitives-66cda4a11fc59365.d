@@ -1,0 +1,10 @@
+C:\Users\Oshioke\OneDrive\Documents\o.williamsCOS101\week-6\project_1\target\debug\deps\gprimitives-66cda4a11fc59365.d: C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Users\Oshioke\OneDrive\Documents\o.williamsCOS101\week-6\project_1\target\debug\deps\libgprimitives-66cda4a11fc59365.rlib: C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Users\Oshioke\OneDrive\Documents\o.williamsCOS101\week-6\project_1\target\debug\deps\libgprimitives-66cda4a11fc59365.rmeta: C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs
+
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\lib.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\utils.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\macros.rs:
+C:\Users\Oshioke\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gprimitives-1.9.2\src\nonzero_u256.rs:

@@ -1,7 +1,7 @@
+use std::io;
+
 fn main() {
-    println!("=============================");
     println!("   🦀 Rust Restaurant Menu   ");
-    println!("=============================");
     println!("Menu\t\t\t\tPrice (₦)");
     println!("P = Poundo Yam & Edinkaiko Soup\t₦3,200");
     println!("F = Fried Rice & Chicken\t₦3,000");
@@ -13,7 +13,9 @@ fn main() {
     // Ask user for food choice
     println!("Enter your meal choice (P, F, A, E, W):");
     let mut choice = String::new();
-    io::stdin().read_line(&mut choice).expect("Failed to read input");
+    io::stdin()
+        .read_line(&mut choice)
+        .expect("Failed to read input");
     let choice = choice.trim().to_uppercase();
 
     // Determine the selected meal and its price
@@ -34,14 +36,15 @@ fn main() {
     // Ask how many plates
     println!("Enter number of plates:");
     let mut qty_input = String::new();
-    io::stdin().read_line(&mut qty_input).expect("Failed to read input");
+    io::stdin()
+        .read_line(&mut qty_input)
+        .expect("Failed to read input");
     let qty: i32 = qty_input.trim().parse().unwrap_or(0);
 
     let total = price * qty;
-    println!("=============================");
+
     println!("Meal: {}", meal);
     println!("Quantity: {}", qty);
     println!("Total Price: ₦{}", total);
-    println!("=============================");
     println!("Thank you for your order! 🍽️");
 }
